@@ -1,0 +1,139 @@
+
+
+.NPL-logo{
+    width: 100px;
+    height: 50px;
+}
+
+#Features {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#Home {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#collapsible-nav-dropdown{
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+
+#Training{
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#Events{
+    color: #323f4b;
+    font-family: "Roboto";
+}
+#Blog {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+#Contant{
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.collapsible-nav-dropdown{
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+.img1{
+    background-image: url("../../assets/Img/banner1.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.img2{
+    background-image: url("../../assets/Img/banner2.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.img3{
+    background-image: url("../../assets/Img/banner3.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.banner-heading{
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+}
+.banner-button{
+    color: white;
+    background-color: #3d3c37;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border: 2px solid white;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin-right: 10px;
+}
+
+
+.About-NLP-heading{
+    color: red;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.Mindfulness-Wellbeing{
+    color: red;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 500;
+}
+.ICF-ACC-Accredited-heading{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.section3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.section-3-heading{
+    color: #b21f27;
+    font-size: 35px;
+    font-weight: 500;
+}
+
+.collpase-button{
+    width: 500px;
+    height: 50px;
+    background-color: rgb(54, 53, 53);
+    border: none;
+    color: aliceblue;
+    border-radius: 30px;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.card-1{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.card-2{
+    margin-bottom: 20px;
+}
+.card-3{
+    margin-bottom: 20px;
+}
+
+.card-4{
+    margin-bottom: 20px;
+}
